@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing websites and softwares
 - 📫 How to reach me mokgethisefiri50@gmail.com
 - 😄 Pronouns: im doing things patiently but not slow
-- ⚡ Fun fact: in my world im the smartest man alive
+
 
 <!---
 Mokgethi50/Mokgethi50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
